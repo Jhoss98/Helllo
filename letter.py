@@ -1,0 +1,5 @@
+print("11/16/2022")
+print("I'm nervius!")
+print("In three months i have to complete my own web page on Phyton and JS")
+print("Don't be lazzy")
+print("c:")
